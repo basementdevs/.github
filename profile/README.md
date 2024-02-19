@@ -1,5 +1,5 @@
 # Basement Devs 
-A community focused to help people to achieve better opportunities in Europe mostly (US can be a thing as well). 
+A community focused to help people to achieve better opportunities in Europe and USA.
 
 [Discord Community](https://discord.gg/basementdevs)
 
